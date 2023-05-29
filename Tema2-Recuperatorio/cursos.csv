@@ -1,0 +1,6 @@
+idCurso;denominacion;cantHoras;provincia;cupoInscriptos;cupoAceptados
+1;Programacion Front+End;100;Cordoba;30;0
+2;Programacion Python;200;San Juan;5;0
+3;Python avanzado;200;San Juan;5;0
+4;Java Frontend y Backend;300;Mendoza;10;0
+5;Java Tester;100;La Rioja;10;0

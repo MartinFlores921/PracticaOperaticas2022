@@ -1,0 +1,25 @@
+from manejadorCurso import manejadorC
+from manejadorInscripcion import manejadorI
+if __name__ == '__main__':
+    curso= manejadorC()
+    inscripcion= manejadorI()
+    inscripcion.cargarListaI()
+    curso.cargarListaC()
+    print("Lista de Curso \n")
+    curso.mostrarListaC()
+    print("Lista de Inscripcion: \n")
+    inscripcion.mostrarListaI()
+    print("INCISO 1 \n")
+    dni= input("Ingrese un Dni: \n")
+    inscripcion.inciso1(dni)
+    inscripcion.mostrarListaI()
+    print("INCISO 2: \n")
+    id= input("Ingrese un Identificador del Curso: \n")
+    inscripcion.inciso2(id,curso)
+    inscripcion.mostrarListaI()
+    print("INCISO 3 \n")
+    inscripcion.inciso3(curso)
+    print("Inciso 4 \n")
+    iden= input("Ingrese un Identificador del curso \n")
+    inscripcion.inciso4( iden)
+    

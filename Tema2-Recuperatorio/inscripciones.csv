@@ -1,0 +1,25 @@
+idCurso;apellido;nombre;dni;provincia;estado
+1;Perez;Luis;21222311;Cordoba;P
+3;Ramirez;Candelaria;22333666;San Juan;P
+2;Perez;Luis;21222311;Cordoba;P
+3;Echegaray;Andrea;21336111;San Juan;P
+1;Aballay;Carlos;42888999;Mendoza;P
+3;Trujillo;Luisa;32666999;Salta;P
+4;Cerdera;Enrique;37852143;San Luis;P
+3;Moya;Fernanda;36899122;Cordoba;P
+4;Penate;Analia;28744633;Cordoba;P
+5;Trujillo;Luisa;32666999;Salta;P
+1;Cerdera;Enrique;37852143;San Luis;P
+3;Penizotto;Ruben;43569444;La Rioja;P
+1;Ruiz;Helena;44456331;Misiones;P
+3;Ruiz;Helena;38667444;Buenos Aires;P
+2;Cerdera;Enrique;37852143;San Luis;P
+5;Berenguer;Elias;25444339;Formosa;P
+3;Pandiela;Ernesto;26444743;Formosa;P
+3;Ferrea;Ramiro;20114369;San Juan;P
+4;Pereyra;Ernestina;43000112;Chubut;P
+2;Ferreyra;Carolina;42311211;Santa Cruz;P
+2;Aballay;Carlos;42888999;Mendoza;P
+5;Aballay;Carlos;42888999;Mendoza;P
+2;Moya;Fernanda;36899122;Cordoba;P
+5;Moya;Fernanda;36899122;Cordoba;P
